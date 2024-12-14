@@ -1,3 +1,26 @@
+## moveit_visual_tools (humble) - 4.1.1-1
+
+The packages in the `moveit_visual_tools` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble moveit_visual_tools --override-release-repository-push-url git@github.com:revyos-ros/moveit_visual_tools-release.git` on `Sat, 14 Dec 2024 22:26:16 -0000`
+
+The `moveit_visual_tools` package was released.
+
+Version of package(s) in repository `moveit_visual_tools`:
+
+- upstream repository: https://github.com/ros-planning/moveit_visual_tools.git
+- release repository: https://github.com/revyos-ros/moveit_visual_tools-release.git
+- rosdistro version: `4.1.1-1`
+- old version: `4.1.0-1`
+- new version: `4.1.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## moveit_visual_tools (jazzy) - 4.1.0-5
 
 The packages in the `moveit_visual_tools` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy moveit_visual_tools --override-release-repository-push-url git@github.com:revyos-ros/moveit_visual_tools-release` on `Wed, 26 Jun 2024 11:10:38 -0000`
